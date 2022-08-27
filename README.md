@@ -27,7 +27,7 @@
 
 ![NelertileDev' Github Stats](https://github-readme-stats.vercel.app/api?username=NelertileDev&theme=gotham&count_private=true&show_icons=true)
 
-![NelertileDev' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NelertileDev&layout=compact&theme=gotham&hide=shaderlab,hlsl&langs_count=10)
+![NelertileDev' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NelertileDev&layout=compact&theme=gotham&hide=shaderlab,hlsl,css,scss,html&langs_count=10)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
