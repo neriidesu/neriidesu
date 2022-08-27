@@ -1,5 +1,3 @@
-![gh banner](assets/Nelertile_banner_gh.png)
-
 # Hello, World! I am Nelertile.
 
 [![Discord](https://img.shields.io/badge/Nelertile%232352-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/422417693711400963)
