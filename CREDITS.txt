@@ -1,0 +1,5 @@
+Badges made with:
+https://forthebadge.com/ and https://shields.io/
+With insperation from: 
+https://github.com/VL07/VL07 and https://github.com/Zetvue/Zetvue
+Readme stats: https://github.com/anuraghazra/github-readme-stats
