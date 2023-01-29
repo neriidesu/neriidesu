@@ -25,9 +25,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/656efd26-71d8-4d63-84ad-b620fb69eabd.svg)](https://wakatime.com/@656efd26-71d8-4d63-84ad-b620fb69eabd)
 
-![NelertileDev' Github Stats](https://github-readme-stats.vercel.app/api?username=NelertileDev&theme=gotham&count_private=true&show_icons=true)
+![NelertileDev' Github Stats](https://github-readme-stats.vercel.app/api?username=Nelertile&theme=gotham&count_private=true&show_icons=true)
 
-![NelertileDev' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NelertileDev&layout=compact&theme=gotham&hide=shaderlab,hlsl,css,scss,html,mathematica&langs_count=10)
+![NelertileDev' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nelertile&layout=compact&theme=gotham&hide=shaderlab,hlsl,css,scss,html,mathematica&langs_count=10)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
