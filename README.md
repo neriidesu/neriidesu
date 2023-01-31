@@ -1,7 +1,7 @@
 # Hello, World! I am Nelertile.
 
 [![Discord](https://img.shields.io/badge/Nelertile%232352-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/422417693711400963)
-[![Website](https://img.shields.io/badge/Website-%2305C46B.svg?style=for-the-badge&logoColor=white)](https://nelertile.netlify.app)
+[![Website](https://img.shields.io/badge/Website-%2305C46B.svg?style=for-the-badge&logoColor=white)](https://nelertile.github.io)
 
 ## Languages
 
