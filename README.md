@@ -20,6 +20,7 @@
 ![Vue.js](https://img.shields.io/badge/Vuejs-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Svelte-%23F05033.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
 ## Stats
 
