@@ -25,9 +25,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/656efd26-71d8-4d63-84ad-b620fb69eabd.svg)](https://wakatime.com/@656efd26-71d8-4d63-84ad-b620fb69eabd)
 
-![NelertileDev' Github Stats](https://github-readme-stats.vercel.app/api?username=neriidesu&theme=gotham&count_private=true&show_icons=true)
-
-![NelertileDev' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neriidesu&layout=compact&theme=gotham&hide=shaderlab,hlsl,css,scss,html,mathematica&langs_count=10)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=neriidesu&show_icons=true&include_all_commits=true&disable_animations=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=neriidesu&show_icons=true&include_all_commits=true&disable_animations=true&theme=transparent)
+[![lang](https://github-stats-extended.vercel.app/api/top-langs?username=neriidesu&layout=compact&langs_count=6&disable_animations=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=neriidesu&layout=compact&langs_count=6&disable_animations=true&theme=transparent)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
